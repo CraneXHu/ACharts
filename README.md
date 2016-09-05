@@ -12,7 +12,7 @@ EChart android demo
 #License
 The MIT License (MIT)
 
-Copyright (c) pkhope 2015 
+Copyright (c) 2016 pkhope
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
